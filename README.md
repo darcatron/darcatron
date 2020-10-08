@@ -27,7 +27,7 @@
 NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is **not** an indication of my proficiency.
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true" alt="darcatron github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide=issues" alt="darcatron github stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcatron&layout=compact&count_private=true&theme=react&langs_count=8" alt="darcatron github languages stats" />
 </a>
 
