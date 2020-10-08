@@ -38,5 +38,5 @@ NOTE: The languages shown below are a GitHub metric derived from the languages t
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react" alt="darcatron github stats" />
 </a>
 
-<a href="https://www.linkedin.com/in/mathurshan" target="blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="28" width="105" /></a>
+<a href="https://www.linkedin.com/in/mathurshan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="28" width="105" /></a>
 
