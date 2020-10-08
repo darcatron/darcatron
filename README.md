@@ -5,7 +5,7 @@
 <h2 align="center">I'm a backend focused software engineer passionate about building software that's accessible and helps improve the lives of others.</h2>
 
 🔭 I’m currently working on [BlueChip](https://www.bluechip.dev/)  
-🌱 I’m currently learning [gpt-2](https://github.com/openai/gpt-2) and machine learning foundations
+🌱 I’m currently learning [gpt-2](https://github.com/openai/gpt-2) and machine learning foundations  
 😄 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
