@@ -35,7 +35,7 @@ NOTE: The languages shown below are a GitHub metric derived from the languages t
 
 <a href="">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcatron&layout=compact&count_private=true&theme=react&langs_count=8" alt="darcatron github languages stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react" alt="darcatron github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true" alt="darcatron github stats" />
 </a>
 
 <a href="https://www.linkedin.com/in/mathurshan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="28" width="105" /></a>
