@@ -24,7 +24,7 @@
     <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
 </p>
 
-NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is not an indication of my proficiency.
+NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is **not** an indication of my proficiency.
 
 <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true" alt="darcatron github stats" />
