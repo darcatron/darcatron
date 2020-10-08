@@ -1,19 +1,12 @@
 <!--
 **darcatron/darcatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋🏾, I'm Mathurshan</h1>
 <h2 align="center">I'm a backend focused software engineer passionate about building software that's accessible and helps improve the lives of others.</h2>
+
+🔭 I’m currently working on [BlueChip](https://www.bluechip.dev/)  
+🌱 I’m currently learning [gpt-2](https://github.com/openai/gpt-2) and machine learning foundations
+😄 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -33,9 +26,9 @@ Here are some ideas to get you started:
 
 NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is an indication of my language proficiency.
 
-<a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcatron&layout=compact&count_private=true&theme=react&langs_count=8" alt="darcatron github languages stats" />
+<a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true" alt="darcatron github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcatron&layout=compact&count_private=true&theme=react&langs_count=8" alt="darcatron github languages stats" />
 </a>
 
 <a href="https://www.linkedin.com/in/mathurshan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" height="28" width="105" /></a>
