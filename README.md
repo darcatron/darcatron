@@ -23,6 +23,7 @@
     <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" /> </a>
     <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
     <a href="https://redis.io" target="_blank"> <img src="./images/redis-original.svg" alt="redis" width="40" height="40" /> </a>
+    <a href="https://heroku.com/" target="_blank"> <img src="./images/heroku-original.svg" alt="heroku" width="40" height="40" /> </a>
 </p>
 
 NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is **not** an indication of my proficiency.
