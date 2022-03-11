@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋🏾, I'm Mathurshan</h1>
 <h2 align="center">I'm a backend focused software engineer passionate about building software that's accessible and helps improve the lives of others.</h2>
 
-🔭 I’m currently working on [BlueChip](https://www.bluechip.dev/)  
+🔭 I’m currently working on [BlueChip](https://fitbit.bluechip.dev/)  
 😄 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
