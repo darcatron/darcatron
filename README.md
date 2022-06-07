@@ -2,7 +2,7 @@
 **darcatron/darcatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋🏾, I'm Mathurshan</h1>
-<h2 align="center">I'm a backend focused software engineer passionate about building software that's accessible and helps improve the lives of others.</h2>
+<h2 align="center">I'm a backend-focused software engineer and leader passionate about building software that's accessible and helps improve the lives of others.</h2>
 
 🔭 I’m currently working on [BlueChip](https://fitbit.bluechip.dev/)  
 😄 Pronouns: he/him
