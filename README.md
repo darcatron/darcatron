@@ -1,10 +1,10 @@
 <!--
 **darcatron/darcatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋🏾, I'm Mathurshan</h1>
-<h2 align="center">I'm an engineering leader who thrives in intellectually challenging situations where I get the opportunity to both learn and teach. I'm passionate about building diverse, inclusive teams centered around open communication and promoting autonomy.</h2>
+# Hi 👋🏾, I'm Mathurshan
+## I'm an engineering leader who thrives in intellectually challenging situations where I get the opportunity to both learn and teach. I'm passionate about building diverse, inclusive teams centered around open communication and promoting autonomy.
 
-🔭 I’m currently working on an [AI language tutor](http://articulearnai.com/)
+### 🔭 I’m currently working on an [AI language tutor called ArticuLearn AI](http://articulearnai.com/)
 🧑🏾‍💻 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
