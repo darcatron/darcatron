@@ -1,5 +1,5 @@
 <!--
-**darcatron/darcatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**matush-v/matush-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi 👋🏾, I'm Mathurshan
 ## I'm an engineering leader who thrives in intellectually challenging situations where I get the opportunity to both learn and teach. I'm passionate about building diverse, inclusive teams centered around open communication and promoting autonomy.
@@ -28,8 +28,8 @@
 NOTE: The languages shown below are a GitHub metric derived from the languages that I have used the most on GitHub. It is **not** an indication of my proficiency.
 
 <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darcatron&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide=issues" alt="darcatron github stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darcatron&layout=compact&count_private=true&theme=react&langs_count=8" alt="darcatron github languages stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matush-v&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide=issues" alt="matush-v github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matush-v&layout=compact&count_private=true&theme=react&langs_count=8" alt="matush-v github languages stats" />
 </a>
 
 <br/><br/>
