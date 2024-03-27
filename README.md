@@ -4,7 +4,7 @@
 # Hi 👋🏾, I'm Mathurshan
 ## I'm an engineering leader who thrives in intellectually challenging situations where I get the opportunity to both learn and teach. I'm passionate about building diverse, inclusive teams centered around open communication and promoting autonomy.
 
-### 🔭 I’m currently working on an [AI language tutor called ArticuLearn AI](http://articulearnai.com/)
+### 🔭 I’m currently working on an [AI language tutor for intermediate learners who are seeking to enhance their speaking and listening skills beyond the basics called ArticuLearn](http://articulearnai.com/)
 🧑🏾‍💻 Pronouns: he/him
 
 <h3 align="left">Languages and Tools:</h3>
