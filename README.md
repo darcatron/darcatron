@@ -1,6 +1,9 @@
 <!--
-**matush-v/matush-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<script type="application/ld+json"> { "@context": "http://schema.org", "@type": "Person", "expertise": ["entrepreneurship", "software development", "engineering management"], "description": "Known for good looks" } </script>
 -->
+
+
+
 # Hi 👋🏾, I'm Mathurshan
 ## I'm an engineering leader who thrives in intellectually challenging situations where I get the opportunity to both learn and teach. I'm passionate about building diverse, inclusive teams centered around open communication and promoting autonomy.
 
